@@ -23,9 +23,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,rust,postgres,mysql,redis,docker,git,linux&perline=6" alt="stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/>
+  <img src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/>
 </p>
