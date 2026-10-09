@@ -26,5 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=for-the-badge&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/>
 </p>
