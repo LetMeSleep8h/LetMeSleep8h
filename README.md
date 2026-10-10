@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:FFFFFF&height=200&section=header&text=LetMeSleep8h&fontColor=374151&fontSize=52&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Agents%20%C2%B7%20Open%20Source&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
-<img align="right" src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji-animated/main/assets/Thinking%20face/animated/thinking_face_animated.png" alt="Thinking Face" width="180" />
+<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Thinking%20face/3D/thinking_face_3d.png" alt="Thinking Face" width="180" />
 
 ### > 我的技术栈 My Skill Set  🛠️
 
@@ -118,7 +118,7 @@ AI Engineering
 </a>
 
 <a href="https://www.rust-lang.org/" target="_blank">
-<img src="https://api.iconify.design/material-icon-theme:rust.svg" alt="Rust" height="42" width="42" />
+<img src="https://api.iconify.design/devicon:java.svg?color=%2324292f" alt="Java" height="42" width="42" />
 </a>
 
 <a href="https://www.python.org/" target="_blank">
