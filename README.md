@@ -120,6 +120,10 @@ AI Engineering
 <a href="https://www.rust-lang.org/" target="_blank">
 <img src="https://api.iconify.design/devicon:java.svg?color=%2324292f" alt="Java" height="42" width="42" />
 </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://api.iconify.design/logos:spring.svg" alt="Spring Boot" height="42" width="42" />
+</a>
+
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" alt="Python" height="42" width="42" />
@@ -139,6 +143,10 @@ AI Engineering
 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://api.iconify.design/devicon:fastapi.svg" alt="FastAPI" height="42" width="42" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://api.iconify.design/logos:mysql.svg" alt="MySQL" height="42" width="42" />
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
