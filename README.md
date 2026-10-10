@@ -3,7 +3,6 @@
   <img width="115" src="./thinking_face_animated.png" alt="Thinking Face"/>
 </p>
 
-### > 我的技术栈 My Skill Set  🛠️
 
 ### > 我的技术栈 My Skill Set  🛠️
 
