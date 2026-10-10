@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:FFFFFF&height=200&section=header&text=LetMeSleep8h&fontColor=374151&fontSize=52&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Agents%20%C2%B7%20Open%20Source&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
-<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Thinking%20face/3D/thinking_face_3d.png" alt="Thinking Face" width="180" />
+<img align="right" src="./thinking_face.png" alt="Thinking Face" width="180" />
 
 ### > 我的技术栈 My Skill Set  🛠️
 
